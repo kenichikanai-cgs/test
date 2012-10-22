@@ -2,4 +2,6 @@ test
 ====
 
 テスト用です
-Ubuntuで修正。
+Ubuntuで修正。<br />
+
+another user edited.
